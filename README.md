@@ -1,6 +1,6 @@
 # Sales Analysis Python
 
-This project analyzes sales data from a superstore to extract meaningful business insights using Python and libraries such as `pandas`, `matplotlib`, and `seaborn`. The notebook walks through data cleaning, exploration, and visualization to answer real-world business questions.
+This project analyzes sales data from a superstore to extract meaningful business insights using Python and libraries such as `pandas` and `matplotlib`. The notebook walks through data cleaning, exploration, and visualization to answer real-world business questions.
 
 ---
 
